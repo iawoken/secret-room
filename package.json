@@ -1,0 +1,21 @@
+{
+  "name": "awoken",
+  "version": "1.0.0",
+  "description": "Sunucunuz için özel oda sistemi!",
+  "main": "_room.js",
+  "scripts": {
+    "start": "node _room.js"
+  },
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "common-tags": "^1.8.2",
+    "discord-modals": "^1.3.5",
+    "moment": "^2.29.3",
+    "moment-duration-format": "^2.3.2",
+    "mongoose": "^6.3.2"
+  },
+  "devDependencies": {
+    "eslint": "^7.17.0",
+    "prettier": "^2.3.0"
+  }
+}
