@@ -7,7 +7,7 @@
 * Herhangi bir klasöre zipi çıkart.
 * Sonra klasörün içerisinde bir `powershell` ya da `cmd` penceresi aç.
 * ```npm install``` yazarak tüm modülleri kur.
-* Kurulum bittikten sonra ```node .``` yaz ve botu başlat.
+* Kurulum bittikten sonra ```npm start``` yaz ve botu başlat.
 
 Tada 🎉. Artık özel oda botun hazır. Dilediğin gibi kullanabilirsin.
 
